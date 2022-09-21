@@ -1,0 +1,15 @@
+form{
+    background-color: chocolate;
+    width: auto;
+}
+a{
+    color: rgb(72, 56, 160);
+}
+input.Signup{
+    background-color: rgb(51, 51, 109);
+    color: white;
+}
+input.Signin{
+    background-color: rgb(51, 51, 109);
+    color: white;
+}

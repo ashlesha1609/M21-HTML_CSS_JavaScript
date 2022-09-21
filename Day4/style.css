@@ -1,0 +1,29 @@
+header{
+    background-color: hsl(332, 87%, 74%);
+    padding: 20px 0 ;
+    text-align: left;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 20;
+    z-index: 1;
+}
+
+p::first-letter {
+    color: hsl(246, 100%, 50%);
+     font-variant: small-caps;
+}
+
+p::first-line {
+    color :#f63232;
+    font-variant: small-caps;
+}
+
+img{
+    width: 500;
+    height: 500;
+}
+body{
+    background-color: rgb(63, 245, 239);
+}
+

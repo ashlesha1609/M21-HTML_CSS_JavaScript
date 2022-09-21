@@ -1,0 +1,89 @@
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    background-color: #ff0080;
+    text-shadow: -5px 8px hwb(195 62% 4%);
+    color: #4a0fee;
+}
+h2{
+    text-align: center;
+}
+ul.pk{
+    text-transform: uppercase;
+    text-decoration: dashed;
+    text-align: right;
+}
+img{
+    text-align: center;
+    
+}
+nav.pk{
+    text-align: center;
+    background-color: white;
+
+}
+input.sk
+{
+    background-color: blue;
+}
+h3
+{
+    color:white;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 20px;
+}
+
+h4{
+    color:white;
+}
+li{
+    color: white;
+}
+l{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+p
+{
+    color:chocolate;
+    text-shadow: 5px yellow;
+    backdrop-filter: red;
+    text-align: center; 
+}
+
+
+b
+{
+    text-align: center;
+    color: yellow;
+   
+}
+
+body{
+    background-color: white;
+    border-style: double;
+    border-color: darkred;
+}
+h6{
+    font-variant-position:super;
+    font-style: bold;
+    
+}
+
+a{
+    text-align: right;
+}
+
+section{
+    background-color: white;
+}
+article{
+    background-color: rgb(207, 176, 236);
+}
